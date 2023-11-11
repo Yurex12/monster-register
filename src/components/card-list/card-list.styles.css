@@ -1,0 +1,9 @@
+.card-list {
+ width: 90vw;
+ margin: 0 auto 30px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+gap: 30px;
+}
